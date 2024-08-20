@@ -1,5 +1,6 @@
 ## Hello,I'm Kaung Zan Thaw!
 I'm a Software Developer with a passion for Latest Technologies. 🚀
+[![](https://visitcount.itsvg.in/api?id=hosh1dEcho&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 .🌱  I’m expanding my React.js skills to become a Frontend Specialist, focusing on responsive and user-friendly web applications.
 
@@ -11,7 +12,7 @@ I'm a Software Developer with a passion for Latest Technologies. 🚀
 
 .📫 How to reach me https://kaungzanthaww.vercel.app/
 
-[![](https://visitcount.itsvg.in/api?id=hosh1dEcho&label=Profile%20Views&color=9&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 <!--
 **hosh1dEcho/hosh1dEcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
