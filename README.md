@@ -14,7 +14,7 @@ I'm a Software Developer with a passion for Latest Technologies. 🚀
 .📫 How to reach me https://kaungzanthaww.vercel.app/
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hosh1dEcho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
