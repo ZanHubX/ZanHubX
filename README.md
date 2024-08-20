@@ -1,5 +1,5 @@
 ## Hello,I'm Kaung Zan Thaw!
-I'm a Software Developer with a passion for Latest Technologies.
+I'm a Software Developer with a passion for Latest Technologies. 🚀
 
 .🌱  I’m expanding my React.js skills to become a Frontend Specialist, focusing on responsive and user-friendly web applications.
 
