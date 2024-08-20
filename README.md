@@ -1,7 +1,12 @@
 ## Hello,I'm Kaung Zan Thaw!
 
-.🌱  I’m expanding my React.js skills to become a Frontend Specialist, focusing on responsive and user-friendly web applications ...
-.👯 I’m looking to collaborate with web developers ...
+.🌱  I’m expanding my React.js skills to become a Frontend Specialist, focusing on responsive and user-friendly web applications.
+
+.👯 I’m looking to collaborate with web developers.
+
+.🤔 I’m looking for the job.
+
+.📫 How to reach me https://kaungzanthaww.vercel.app/
 <!--
 **hosh1dEcho/hosh1dEcho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
